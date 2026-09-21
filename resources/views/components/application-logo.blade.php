@@ -1,0 +1,1 @@
+<img src="{{ asset('images/logo-klinik.png') }}" alt="Logo Klinik PKP" class="w-48 md:w-56 h-auto drop-shadow-sm" {{ $attributes }}>
